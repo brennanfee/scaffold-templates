@@ -1,0 +1,28 @@
+{
+  "name": "scaffold-templates",
+  "version": "0.0.1",
+  "description": "My templates for [Scaffold](https://github.com/brennanfee/scaffold/)",
+  "repository": "github:brennanfee/scaffold-templates",
+  "homepage": "https://github.com/brennanfee/scaffold-templates#readme",
+  "bugs": "https://github.com/brennanfee/scaffold-templates/issues",
+  "author": "Brennan Fee <brennan@github.mailbots.org> (https://github.com/brennanfee)",
+  "keywords": [],
+  "devDependencies": {
+    "prettier": "^1.13.7"
+  },
+  "dependencies": {},
+  "private": true,
+  "license": "MIT",
+  "prettier": {
+    "printWidth": 100,
+    "trailingComma": "es5",
+    "proseWrap": "always",
+    "semi": false,
+    "singleQuote": true,
+    "requirePragma": false,
+    "insertPragma": false
+  },
+  "scripts": {
+    "test": "echo 'Error: no tests specified' && exit 1"
+  }
+}
